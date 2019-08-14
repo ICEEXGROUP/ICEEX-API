@@ -1,0 +1,11 @@
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.ApiTest\bin\Debug\netcoreapp2.0\ICEEX.ApiTest.deps.json
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.ApiTest\bin\Debug\netcoreapp2.0\ICEEX.ApiTest.runtimeconfig.json
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.ApiTest\bin\Debug\netcoreapp2.0\ICEEX.ApiTest.runtimeconfig.dev.json
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.ApiTest\bin\Debug\netcoreapp2.0\ICEEX.ApiTest.dll
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.ApiTest\bin\Debug\netcoreapp2.0\ICEEX.ApiTest.pdb
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.ApiTest\obj\Debug\netcoreapp2.0\ICEEX.ApiTest.csprojAssemblyReference.cache
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.ApiTest\obj\Debug\netcoreapp2.0\ICEEX.ApiTest.csproj.CoreCompileInputs.cache
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.ApiTest\obj\Debug\netcoreapp2.0\ICEEX.ApiTest.AssemblyInfoInputs.cache
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.ApiTest\obj\Debug\netcoreapp2.0\ICEEX.ApiTest.AssemblyInfo.cs
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.ApiTest\obj\Debug\netcoreapp2.0\ICEEX.ApiTest.dll
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.ApiTest\obj\Debug\netcoreapp2.0\ICEEX.ApiTest.pdb

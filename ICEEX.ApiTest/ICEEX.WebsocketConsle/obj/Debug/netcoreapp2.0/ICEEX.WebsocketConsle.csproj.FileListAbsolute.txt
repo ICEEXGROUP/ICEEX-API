@@ -1,0 +1,11 @@
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.WebsocketConsle\bin\Debug\netcoreapp2.0\ICEEX.WebsocketConsle.deps.json
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.WebsocketConsle\bin\Debug\netcoreapp2.0\ICEEX.WebsocketConsle.runtimeconfig.json
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.WebsocketConsle\bin\Debug\netcoreapp2.0\ICEEX.WebsocketConsle.runtimeconfig.dev.json
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.WebsocketConsle\bin\Debug\netcoreapp2.0\ICEEX.WebsocketConsle.dll
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.WebsocketConsle\bin\Debug\netcoreapp2.0\ICEEX.WebsocketConsle.pdb
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.WebsocketConsle\obj\Debug\netcoreapp2.0\ICEEX.WebsocketConsle.csprojAssemblyReference.cache
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.WebsocketConsle\obj\Debug\netcoreapp2.0\ICEEX.WebsocketConsle.csproj.CoreCompileInputs.cache
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.WebsocketConsle\obj\Debug\netcoreapp2.0\ICEEX.WebsocketConsle.AssemblyInfoInputs.cache
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.WebsocketConsle\obj\Debug\netcoreapp2.0\ICEEX.WebsocketConsle.AssemblyInfo.cs
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.WebsocketConsle\obj\Debug\netcoreapp2.0\ICEEX.WebsocketConsle.dll
+D:\ICEEX\backend\ICEEX-backend-3.0.2\ICEEX.ApiTest\ICEEX.WebsocketConsle\obj\Debug\netcoreapp2.0\ICEEX.WebsocketConsle.pdb
